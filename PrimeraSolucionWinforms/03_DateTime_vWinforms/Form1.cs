@@ -17,7 +17,7 @@ namespace _03_DateTime_vWinforms
 						InitializeComponent();
 				}
 
-				private void btnPrueba1_Click(object sender, EventArgs e)
+				private void btnPrueba1_Click(object sender, EventArgs e) //cambio ejemplo github
 				{
 						DateTime fecha1;
 						fecha1 = dtPfecha.Value;
